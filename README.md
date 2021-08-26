@@ -1,3 +1,9 @@
+# mengenal-spartans
+
+A game made to help IF'20 complete SPARTA with good marks. Made with React.
+
+You can see the live project at <a href="https://mengenal-spartans.netlify.app">here</a>.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
