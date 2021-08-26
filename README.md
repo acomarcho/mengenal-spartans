@@ -1,6 +1,6 @@
 # mengenal-spartans
 
-A game made to help IF'20 complete SPARTA with good marks. Made with React.
+A game made to help IF'20 and STI'20 complete SPARTA with good marks. Made with React.
 
 You can see the live project at <a href="https://mengenal-spartans.netlify.app">here</a>.
 
